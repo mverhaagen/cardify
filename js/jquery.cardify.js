@@ -7,6 +7,7 @@
       faIcon: null,
       body: "",
       showClose: false,
+      closeIcon: "icon-remove",
       callback: null,
       attrs: [],
       closeFunction: function(){}
@@ -15,7 +16,7 @@
     var container = $("<div />").addClass(settings.className).addClass("cardify-card")
     if(settings.showClose){
       $(container)
-      .append("<div class='cardify-remove'><i class='icon-remove'></i></div>")
+      .append("<div class='cardify-remove'><i class='" + settings.closeIcon + "'></i></div>")
       .on("click", settings.closeFunction) 
     }
     
