@@ -1,0 +1,13 @@
+{
+  "name": "cardify",
+  "descriptioin": "A jQuery plug-in to create a card style HTML object.",
+  "author": "Mike Verhaagen",
+  "author": {
+        "name": "MVerhaagen",
+        "email": "mverhaagen@icgconsulting.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:mverhaagen/cardify.git"
+    }
+}

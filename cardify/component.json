@@ -1,0 +1,7 @@
+{
+  "name": "cardify",
+  "version": "1.0.1",
+  "main": ["./js/jquery.cardify.js", "./css/jquery.cardify.css"],
+  "dependencies": {
+  }
+}
