@@ -1,0 +1,41 @@
+.cardify-card {
+  border: 1px solid #999;
+  padding-left: 3px;
+}
+
+.cardify-card.blue {
+  background-color: #66aaff;
+  color: white;
+}
+
+.cardify-card.white {
+  background-color: #fff;
+  color: #000;
+}
+
+.cardify-card.red {
+  background-color: #F4641F;
+  color: white;
+}
+.cardify-card.small {
+  width: 190px;
+  height: 100px;
+}
+
+.cardify-card.medium {
+  width: 190px;
+  height: 218px;
+}
+
+.cardify-card.large {
+  width: 360px;
+  height: 218px;
+}
+
+.cardify-remove {
+  width: 10px;
+  padding-right: 10px;
+
+  opacity: .5;
+  float:right;
+}
