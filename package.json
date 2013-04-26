@@ -1,6 +1,6 @@
 {
   "name": "cardify",
-  "descriptioin": "A jQuery plugin to create a card style HTML object.",
+  "description": "A jQuery plugin to create a card style HTML object.",
   "author": "Mike Verhaagen",
   "author": {
         "name": "MVerhaagen",
